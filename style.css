@@ -8,7 +8,6 @@ body {
     flex-direction: column;
     position: relative;
     background-image: url('phon.jpg');
-    width: 100%;
 }
 
 .google {
